@@ -2,4 +2,4 @@
 remotes:
   vendor: https://github.com/destructuring/definition-basebox
   primary: git@github.com:destructuring/definition-osx
-  secondary: git@destructuring.org:destructuring/definition-osx
+  secondary: git@bitbucket.org:destructuring/definition-osx
